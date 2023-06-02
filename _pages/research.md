@@ -23,5 +23,5 @@ Economists often exploit changes in local housing prices to estimate the demand 
 ## Individual Economic Circumstances Do Not Drive Heat Disparities in the United States
 *[joint with Jonathan Colmer and John Voorheis]*
 
-## Urban Heat Islands and Mortality” 
+## Urban Heat Islands and Mortality
 *[joint with Jonathan Colmer and John Voorheis]*
