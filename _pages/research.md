@@ -19,3 +19,9 @@ Relative to white households in the same U.S. city, Black households live in nei
 *[joint with Eleanor Krause]*
 
 Economists often exploit changes in local housing prices to estimate the demand for local environmental improvements. However, when housing is elastically supplied, amenity improvements may yield an expansion of the housing market, muting the capitalization of the amenity into housing prices. We demonstrate how the elasticity of the local housing market critically affects empirical valuations of amenity changes by influencing the price and quantity of housing. Leveraging local air quality improvements induced by the Clean Air Act and heterogeneity in housing supply constraints, we present consistent evidence that air quality improvements yield substantially larger housing price responses in places with less elastic housing supply. We present a model of spatial equilibrium that provides expressions for local prices, populations, and wages as functions of local amenities, and use this model to estimate marginal willingness to pay for PM2.5 reductions across U.S. counties.
+
+## Individual Economic Circumstances Do Not Drive Heat Disparities in the United States
+*[joint with Jonathan Colmer and John Voorheis]*
+
+## Urban Heat Islands and Mortality” 
+*[joint with Jonathan Colmer and John Voorheis]*
