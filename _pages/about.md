@@ -12,8 +12,13 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a PhD candidate in Public Policy at the Harvard Kennedy School and a pre-doctoral fellow at the [Harvard Environmental Economics Program](https://heep.hks.harvard.edu). My research focuses on environmental economics,  public finance, and applied microeconomics. I am a 2022 grantee of the [Washington Center for Equitable Growth](https://equitablegrowth.org/people/tridevi-chakma/) doctoral grant and an affiliate of the [Environmental Inequality Lab](https://www.environmental-inequality-lab.org).
+I am a PhD candidate in Public Policy at the Harvard Kennedy School and a pre-doctoral fellow at the [Harvard Environmental Economics Program](https://heep.hks.harvard.edu). My research focuses on environmental economics and  public finance, with a particular interest in environmental justice. I am a 2022 grantee of the [Washington Center for Equitable Growth](https://equitablegrowth.org/people/tridevi-chakma/) doctoral grant and an affiliate of the [Environmental Inequality Lab](https://www.environmental-inequality-lab.org).
 
 Prior to the PhD program, I worked at Oxera Consulting in London. I completed an MSc in finance and economics at the London School of Economics and a bachelors degree in finance at the Australian National University.
 
 I will be on the job market during AY 2023-2024.
+
+**Committee:**
+- Nathan Hendren (co-chair): [nhendren@mit.edu](mailto:nhendren@mit.edu)
+- Joe Aldy (co-chair): [joseph_aldy@hks.harvard.edu](mailto:joseph_aldy@hks.harvard.edu)
+- Marcella Alsan: [marcella_alsan@hks.harvard.edu](mailto:marcella_alsan@hks.harvard.edu)
